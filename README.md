@@ -1,5 +1,7 @@
 # InsightOps AI
 
+[English](README.md) | [Português](README.pt-BR.md)
+
 InsightOps AI is an operational-intelligence platform for transforming sales, inventory, returns and support data into validated datasets, deterministic KPIs, explainable anomaly signals and evidence-backed analysis.
 
 The system is designed around a strict separation of responsibilities: data engineering, KPI calculation and anomaly detection remain deterministic, while the AI layer can only inspect approved information through typed, read-only tools. The agent cannot execute arbitrary SQL, mutate operational data, generate financial forecasts or issue investment recommendations.
