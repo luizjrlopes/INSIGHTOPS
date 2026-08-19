@@ -1,0 +1,1 @@
+export default function PageHead({eyebrow,title,description,actions}:{eyebrow:string,title:string,description:string,actions?:React.ReactNode}){return <div className="pageHead"><div><div className="eyebrow">{eyebrow}</div><h1>{title}</h1><p>{description}</p></div><div className="actions">{actions}</div></div>}

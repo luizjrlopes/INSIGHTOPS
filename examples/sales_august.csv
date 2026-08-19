@@ -1,0 +1,11 @@
+date,order_id,sku,region,quantity,unit_price,returned,support_tickets
+2026-08-01,ORD-2001,A-184,Sul,5,149.90,false,1
+2026-08-01,ORD-2002,A-184,Sul,4,149.90,false,1
+2026-08-02,ORD-2003,B-210,Sudeste,2,89.90,false,0
+2026-08-02,ORD-2004,C-330,Nordeste,3,219.00,true,1
+2026-08-03,ORD-2005,A-184,Sul,6,149.90,false,2
+2026-08-03,ORD-2006,D-440,Sul,-2,79.90,false,0
+2026-13-04,ORD-2007,A-184,Sul,5,149.90,false,0
+2026-08-04,ORD-2008,,Sul,2,99.90,false,0
+2026-08-05,ORD-2009,A-184,Sul,4,149.90,false,1
+2026-08-05,ORD-2010,B-210,Sudeste,3,89.90,false,0

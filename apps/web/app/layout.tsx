@@ -1,0 +1,1 @@
+import "./globals.css";import Shell from "@/components/Shell";export const metadata={title:"InsightOps AI",description:"Operational intelligence with safe analytical tools"};export default function Layout({children}:{children:React.ReactNode}){return <html lang="pt-BR"><body><Shell>{children}</Shell></body></html>}
